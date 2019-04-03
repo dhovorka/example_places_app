@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Places.create(name: 'Connecitcut', address: '47 Monticello Lane')
-Places.create(name: 'Baltimore', address: '3802 Yolando Drive')
-Places.create(name: 'Chicagi', address: '1 N Dearborn')
+Place.create(name: 'Connecitcut', address: '47 Monticello Lane')
+Place.create(name: 'Baltimore', address: '3802 Yolando Drive')
+Place.create(name: 'Chicagi', address: '1 N Dearborn')
 
